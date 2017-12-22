@@ -1,0 +1,23 @@
+Beste Mathijs,
+
+In deze automatisch gegenereerde mail geven we feedback voor het tweede
+practicum van het vak Gegevensstructuren en Algoritmen. Als algemene
+indicatie gebruiken we een kleurcodering (groen, oranje, rood), waarbij
+groener beter is. De kleurcode voor jouw practicum is groen. We geven je
+ook graag nog volgende feedback mee:
+
+> - Probeer je verslag beknopter te schrijven
+	=> Sorry
+> - Goed verslag
+	=> Dankjewel
+
+We onderwierpen alle practica ook aan een JUnit testsuite om de
+effectiviteit van de ingezonden code na te gaan. De automatisch
+gegenereerde output van onze JUnit testen volgt hieronder. Merk op dat
+dit niet de output is van je eigen ingezonden testen.
+
+> OK.
+
+Met vriendelijke groeten,
+
+Het GNA team

@@ -1,0 +1,37 @@
+Beste Mathijs,
+
+In deze automatisch gegenereerde mail geven we feedback voor het eerste
+practicum (sorteeralgoritmen) van het vak Gegevensstructuren en
+Algoritmen. Als algemene indicatie gebruiken we een kleurcodering
+(groen, oranje, rood), waarbij groener beter is. De kleurcode voor jouw
+practicum is groen. We geven je ook graag nog volgende feedback mee:
+
+> Je uitleg dat selection sort "een zeer betrouwbaar algoritme" is, omdat het deterministische uitvoeringstijd vertoont, is verwarrend.
+	=> Ik bedoel hier mee dat je exact weet wat je moet verwachten van selection sort.
+
+> Dat selection sort niet exact de helft van het aantal vergelijkingen van selection sort nodig heeft, ligt aan de input data, niet aan de lagere orde termen die wegvallen in de tilde notatie(!) 
+	=> Dit wist ik niet en heb dan maar een abductieve verklaring gegeven.
+
+> Uit jouw grafieken volgt _niet_ dat de spreiding van quicksort groter is dan die van insertion sort (kijk naar de eenheden op de y-as). 
+	=> Hier had ik meer aandacht aan moeten besteden.
+
+> In het overzicht bespreek je de worst cases, maar plot je enkel de theoretische complexiteit. 
+	=> Dit is niet de theoretische complexiteit, het is de trendlijn van mijn data, voor die worst cases verwees ik terug naar de effectieve plotting van de data.
+
+> Doubling ratio: selection sort was niet gevraagd. 
+	=> Ik heb dit er bij gedaan voor consistentie en als oefening voor mij zelf. Maar dit was inderdaad niet gevraagd. 
+
+> Quicksort heeft doubling ratio 2 omdat de tijdscomplexiteit ~Nlog(N) is, niet omdat quicksort "stijgt volgens een functie van de vorm a*N^b".
+	=> Dit wist ik niet en heb dan maar een abductieve verklaring gegeven.
+
+
+We onderwierpen alle practica ook aan een JUnit testsuite om de
+effectiviteit van de ingezonden code na te gaan. De automatisch
+gegenereerde output van onze JUnit testen volgt hieronder. Merk op dat
+dit niet de output is van je eigen ingezonden testen.
+
+> OK.
+
+Met vriendelijke groeten,
+
+Het GNA team

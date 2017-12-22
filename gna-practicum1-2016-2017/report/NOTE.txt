@@ -1,0 +1,4 @@
+report.pdf is mijn effectieve verslag, 
+Results Data.xlsx is gewoon een excel bestand met al mijn resultaten in.
+Dit bestand behoord niet tot mijn finale verslag maar heb ik er bij toegevoegd 
+in het geval dat mijn grafieken niet duidelijk genoeg zouden zijn.

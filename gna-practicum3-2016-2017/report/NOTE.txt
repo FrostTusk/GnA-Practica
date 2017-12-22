@@ -1,0 +1,1 @@
+I also wrote a few batch scripts in the root of this practicum's repository to make running the image stitching algorithm less tedious.
